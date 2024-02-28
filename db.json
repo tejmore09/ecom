@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "Anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "Sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "password": "abc@123",
+      "email": "ram@seller.com",
+      "id": 3
+    },
+    {
+      "name": "Om",
+      "password": "abc@123",
+      "email": "Om@seller.com",
+      "id": 4
+    },
+    {
+      "name": "viki",
+      "password": "viki1234",
+      "email": "viki@gmail.com",
+      "id": 5
+    }
+  ]
+}
